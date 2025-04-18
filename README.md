@@ -2,6 +2,8 @@
 
 Preliminary versions of ion exchange models.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seo-seok-hyun/ion.git/main)
+
 For an overview of ion exchange column modeling, consult:
 * Slater, M.J., 2013. Principles of ion exchange technology. Butterworth-Heinemann.
 * Helfferich, F. G. (1995). Ion exchange. Courier Corporation.
